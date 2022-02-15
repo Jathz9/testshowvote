@@ -14,7 +14,7 @@
     "plugins": {
         "inputs": "{}",
         "origin": "ui",
-        "package": '@netlify/plugin-nextjs'
+        "package": "@netlify/plugin-nextjs"
     }
   },
   "dependencies": {
