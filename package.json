@@ -7,9 +7,9 @@
     "lint": "next lint",
     "build" : {
        "command": "npm run build",
-       "commandOrigin: "ui",
-       "publish: "/opt/build/repo",
-       "publishOrigin: "default"
+       "commandOrigin": "ui",
+       "publish": "/opt/build/repo",
+       "publishOrigin": "default"
     },
     "plugins": {
         "inputs": "{}",
@@ -17,9 +17,6 @@
         "package": '@netlify/plugin-nextjs'
     }
   },
-
-  
-  
   "dependencies": {
     "antd": "^4.18.6",
     "axios": "^0.25.0",
